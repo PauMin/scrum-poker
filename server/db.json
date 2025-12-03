@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": "59d1803e-4cd0-457d-9688-a70fcdaf8eaf",
+      "username": "Alice"
+    },
+    {
+      "id": "5ce6e6cd-85d7-44bf-aefd-3f0a9baf4ba5",
+      "username": "Bob"
+    }
+  ],
+  "teams": [
+    {
+      "id": "33a0b6cf-2b96-4b53-9186-0686feeab326",
+      "name": "Alice's Room",
+      "ownerId": "59d1803e-4cd0-457d-9688-a70fcdaf8eaf",
+      "memberIds": [
+        "59d1803e-4cd0-457d-9688-a70fcdaf8eaf",
+        "5ce6e6cd-85d7-44bf-aefd-3f0a9baf4ba5"
+      ]
+    },
+    {
+      "id": "ffcc0dde-ae78-4b5d-9322-5b49beefc110",
+      "name": "Alice's Room",
+      "ownerId": "59d1803e-4cd0-457d-9688-a70fcdaf8eaf",
+      "memberIds": [
+        "59d1803e-4cd0-457d-9688-a70fcdaf8eaf"
+      ]
+    },
+    {
+      "id": "2730692d-c596-480e-8ae5-aebbbfdd9900",
+      "name": "Alice's Room",
+      "ownerId": "59d1803e-4cd0-457d-9688-a70fcdaf8eaf",
+      "memberIds": [
+        "59d1803e-4cd0-457d-9688-a70fcdaf8eaf"
+      ]
+    }
+  ]
+}
